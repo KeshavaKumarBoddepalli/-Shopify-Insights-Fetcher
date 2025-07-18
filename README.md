@@ -57,8 +57,8 @@ This app is ideal for **market researchers**, **analysts**, and **competitor ins
 
 > 📌 *Screenshots of the deployed Hugging Face Space interface*
 
-![App Screenshot 1](screenshots/app_home.png)
-![App Screenshot 2](screenshots/product_data.png)
+![App Screenshot 1](https://github.com/KeshavaKumarBoddepalli/Shopify-Insights-Fetcher/blob/main/Screenshot%202025-07-18%20170514.png)
+![App Screenshot 2](https://github.com/KeshavaKumarBoddepalli/Shopify-Insights-Fetcher/blob/main/Screenshot%202025-07-18%20170627.png)
 
 ---
 
